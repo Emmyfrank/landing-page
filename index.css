@@ -1,0 +1,304 @@
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+/*            first section ; Header main          */
+
+
+.section1 {
+    background-color: #1F2937;
+    height: 550px;
+    width: 100%;
+}
+
+.navbar{
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+    gap: 450px;
+}
+
+.navbar p {
+    margin-top: 5px;
+    color: #f9faf8;
+    font-size: 24px;
+}
+
+
+button {
+    background-color: blue;
+    border: blue;
+    border-radius: 5px;
+    color: white;
+    height: 25px;
+    width: 100px;
+    font-weight: bold;
+}
+
+a{
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.subsection1 {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+}
+.subsection1  h1 {
+    font-weight: bold;
+    font-size: 48px;
+    color: #f9faf8;
+}
+
+.subsection1 p {
+    color: #e5e7eb;
+    font-size: 18px;
+}
+
+
+.logo {
+    width: 120px;
+    height: 95px;
+    border-radius: 50%;
+    margin-left: 50px;
+
+}
+
+.placeholder {
+    width: 600px;
+    height: 250px;
+    
+}
+
+/* Section two */
+
+.section2 {
+    background-color: #f9faf8;
+    width: 100%;
+    height: 450px;
+    color: #1F2937;
+}
+
+.section2 h2 {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.places {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
+.section2 img {
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+}
+
+
+
+/* Section3 */
+
+.section3 {
+    background:#d3d3d3;
+    width: 100%;
+    height: 280px;
+   
+}
+.three {
+    display: flex;
+   justify-content: center;
+}
+.section3 .one   {
+    font-family: "Times New Roman", Times, serif;
+    padding-top: 50px;
+    display: block;
+    color:#1F2937;  
+    font-size: 36px; 
+}
+
+.section3 .two {
+    color: black;
+    font-weight: bold;
+    margin-top: 200px;
+
+}
+
+#name {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+/* section 4 */
+
+.section4 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 250px;
+}
+
+.insidebox {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    background-color: blue;
+    gap: 50px;
+    width: 1200px;
+    height: 150px;
+}
+
+.insidebox button {
+    margin-top: 60px;
+    background-color: blue;
+    border:1px solid #f9faf8;
+    border-radius: 5px;
+    color: white;
+    height: 25px;
+    width: 100px;
+    font-weight: bold;
+    
+}
+
+.boxleft {
+    margin-top: 25px;
+}
+body {
+.section3 .one   {
+    font-family: "Times New Roman", Times, serif;
+    padding-top: 50px;
+    display: block;
+    color:￼#1F2937;  
+    font-size: 36px; 
+}
+
+.section3 .two {
+    color: ￼black;
+    font-weight: bold;
+    margin-top: 200px;
+
+}
+
+#name {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+/* section 4 */
+
+.section4 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 250px;
+}
+
+.insidebox {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    background-color: ￼blue;
+    gap: 50px;
+    width: 1200px;
+    height: 150px;
+}
+
+.insidebox button {
+    margin-top: 60px;
+    background-color: ￼blue;
+    border:1px solid ￼#f9faf8;
+    border-radius: 5px;
+    color: ￼white;
+    height: 25px;
+    width: 100px;
+    font-weight: bold;
+    
+}
+
+.boxleft .body {/* removed { and add . before body*/
+.section3 .one {
+    font-family: "Times New Roman", Times, serif;
+    padding-top: 50px;
+    display: block;
+    color: red;  
+    font-size: 36px; 
+}
+}
+
+.section3 .two {
+    color: ￼black;
+    font-weight: bold;
+    margin-top: 200px;
+
+}
+
+#name {
+    display: flex;
+    justify-content: flex-end;
+}
+
+
+/* section 4 */
+
+.section4 {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 250px;
+}
+
+.insidebox {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    background-color: ￼blue;
+    gap: 50px;
+    width: 1200px;
+    height: 150px;
+}
+
+.insidebox button {
+    margin-top: 60px;
+    background-color: ￼blue;
+    border:1px solid ￼#f9faf8;
+    border-radius: 5px;
+    color: ￼white;
+    height: 25px;
+    width: 100px;
+    font-weight: bold;
+    
+}
+
+.boxleft {
+.section4 .insidebox .boxleft p, h2 {
+     color: white;
+}
+.section4 .insidebox .boxleft p {
+    margin-top: 0px;
+}
+
+.insidebox h2 {
+    margin-bottom: 2px;
+}
+
+/*  footer */
+
+.footer {
+    color: #e5e7eb;
+    background-color: #1F2937;
+    margin-top: 20px;
+    width: 100%;
+    height: 50px;
+    display:flex;
+    justify-content: center;
+}
